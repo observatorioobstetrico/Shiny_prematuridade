@@ -1,0 +1,13 @@
+name: PrematuridadeApp
+title: PrematuridadeApp
+username:
+account: observatorioobstetrico
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9832254
+bundleId: 7671399
+url: https://observatorioobstetrico.shinyapps.io/PrematuridadeApp/
+when: 1694463675.57494
+lastSyncTime: 1694463675.57495
+asMultiple: FALSE
+asStatic: FALSE
