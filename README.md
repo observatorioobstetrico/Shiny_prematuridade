@@ -8,4 +8,15 @@ O aplicativo utiliza dados do Sistema de Informações sobre Nascidos Vivos (SIN
 do Cadastrado Nacional de Estabelecimentos de Saúde (CNES) e do Atlas do Desenvolvimento Humano no Brasil para investigar a influência de condições pré-natais maternas 
 e de parâmetros de desenvolvimento socioeconômico no desfecho do nascimento prematuro (eletivo e espontâneo), por Unidade Federativa e município.
 
-<center><img src="shinyapp.png" width="650" height="400"></center>
+<br><br>
+
+<p align="center"><img src="shinyapp.png" width="650" height="400" /></p>
+
+### Script
+
+Aplicativo ShinyApp - `/shinyapp`
+
+### Software
+
+R, versão 4.3.0, sob a IDE RStudio
+
