@@ -10,7 +10,7 @@ e de parâmetros de desenvolvimento socioeconômico no desfecho do nascimento pr
 
 <br><br>
 
-<p align="center"><img src="shiny.png" width="650" height="400" /></p>
+<p align="center"><img src="shinyapp.png" width="650" height="400" /></p>
 
 ### Script
 
