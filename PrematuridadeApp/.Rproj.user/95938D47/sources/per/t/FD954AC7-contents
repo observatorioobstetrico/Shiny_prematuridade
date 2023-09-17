@@ -1,3 +1,22 @@
+# Bibliotecas ------------
+
+#dados
+library(dplyr)
+library(janitor)
+library(tidyr)
+#shiny
+library(shiny)
+library(shinythemes)
+library(shinycssloaders)
+library(shinydashboard)
+library(shinyjs)
+library(shinyWidgets)
+library(markdown)
+#graficos
+library(ggplot2)
+library(ggpubr)
+library(patchwork)
+
 # UI -----------------------
 
 ui <- dashboardPage(
@@ -219,25 +238,6 @@ ui <- dashboardPage(
   )))
 )
 
-
-# Bibliotecas ------------
-
-#dados
-library(dplyr)
-library(janitor)
-library(tidyr)
-#shiny
-library(shiny)
-library(shinythemes)
-library(shinycssloaders)
-library(shinydashboard)
-library(shinyjs)
-library(shinyWidgets)
-library(markdown)
-#graficos
-library(ggplot2)
-library(ggpubr)
-library(patchwork)
 
 
 # Dados ------------------
